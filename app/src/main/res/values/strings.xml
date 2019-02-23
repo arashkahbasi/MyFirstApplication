@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyFirstApplication</string>
+    <string name="first_quarter">First Quarter</string>
+    <string name="second_quarter">Second Quarter</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="btn_name">MORE</string>
 </resources>

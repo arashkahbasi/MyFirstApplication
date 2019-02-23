@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="first_quarter">چارک اول</string>
+    <string name="second_quarter">چارک دوم</string>
+    <string name="january">ژانویه</string>
+    <string name="february">فوریه</string>
+    <string name="march">مارس</string>
+    <string name="april">آوریل</string>
+    <string name="may">می</string>
+    <string name="btn_name">بیشتر</string>
+</resources>
