@@ -68,6 +68,8 @@ public class InputInfosActivity extends AppCompatActivity {
             if (resultCode == RESULT_OK) {
                 if (data.getStringExtra("captcha").equals("13A4")) {
                     Toast.makeText(this, "Information has been saved.", Toast.LENGTH_LONG).show();
+                } else {
+                    Toast.makeText(this, "Captcha has been entered incorrectly.", Toast.LENGTH_LONG).show();
                 }
             }
         }

@@ -60,7 +60,7 @@ public class ViewingInfosActivity extends AppCompatActivity {
                 String sCaptcha = captcha.getText().toString();
                 Intent returnIntent = new Intent();
                 returnIntent.putExtra("captcha", sCaptcha);
-                setResult(Activity.RESULT_OK);
+                setResult(Activity.RESULT_OK, returnIntent);
                 finish();
             }
         });
